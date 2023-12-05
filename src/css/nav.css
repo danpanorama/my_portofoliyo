@@ -1,0 +1,9 @@
+.nav_bar{
+    height: 10vh;
+}
+.nav_link{
+    margin-left: 20px;
+    font-size: 1.4rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
